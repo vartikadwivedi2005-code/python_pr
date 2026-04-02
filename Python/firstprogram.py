@@ -1,0 +1,6 @@
+print("Hello World")
+print("Vartika is my name.")
+print("My age is 20.")
+print("I am curently pursuing B.Tech in Computer Science and Engineering.")
+print(35)
+print(35+45)
