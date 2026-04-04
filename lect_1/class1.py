@@ -1,4 +1,4 @@
-#python
+#python notes
 #interpreter and compiler
 #python is an interpreted language, which means that it is executed line by line. The interpreter reads the code and executes it directly, without the need for a separate compilation step. This allows for faster development and easier debugging, as you can see the results of your code immediately.
 
