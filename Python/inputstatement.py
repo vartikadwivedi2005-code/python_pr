@@ -1,3 +1,6 @@
+# input() function is used to take input from the user. It takes a string as an argument, which is displayed as a prompt to the user. The function returns the input as a string.
+
+
 # val = input("enter some value:")
 # print(type(val), val)  #by default input() function takes input as string
 

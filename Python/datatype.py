@@ -1,3 +1,13 @@
+# DATA TYPES - data types are the classification of data items. It represents the kind of value that tells what operations can be performed on a particular data.
+# Python has several built-in data types, including:
+# 1. Numeric Types: int, float, complex
+# 2. Sequence Types: list, tuple, range
+# 3. Text Type: str
+# 4. Mapping Type: dict
+# 5. Set Types: set, frozenset
+# 6. Boolean Type: bool
+# 7. None Type: NoneType
+
 # name1 = "sky"
 # name2 = 'blue'
 # name3 = """hello world"""
